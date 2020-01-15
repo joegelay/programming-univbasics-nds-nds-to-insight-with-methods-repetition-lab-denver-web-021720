@@ -50,6 +50,8 @@ def total_gross(source)
   directors_totals = directors_totals(source)
   list_of_directors = list_of_directors(source)
   
+  counter = 0 
+  while counter < directors_totals
   
 end
 
